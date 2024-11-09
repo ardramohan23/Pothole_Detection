@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/Pothole_Images/train/images
+val: /content/drive/MyDrive/Pothole_Images/valid/images
+test: /content/drive/MyDrive/Pothole_Images/test/images
+
+nc: 1
+names: ['pothole']
